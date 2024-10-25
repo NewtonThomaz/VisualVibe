@@ -64,3 +64,6 @@ section{
 .gg{
     width: 88dvh;
 }
+section{
+    flex-wrap: wrap;
+}
